@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD AREEB UDDIN</h1>
 <h3 align="center">I'm a graduate in Information Technology 🎓 from Maharaja Agrasen Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
 
-<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br />
+<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan632&label=Profile%20views&color=0e75b6&style=flat" alt="khan632" /> </p>
 
